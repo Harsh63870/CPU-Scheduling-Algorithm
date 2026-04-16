@@ -75,6 +75,7 @@ for ((i=0;i<n;i++))
 do
     tat[$i]=$((bt[$i]+wt[$i]))
 
+
     echo "P$i      ${bt[$i]}   ${wt[$i]}   ${tat[$i]}   ${rt[$i]}"
 
     total_wt=$((total_wt+wt[$i]))
