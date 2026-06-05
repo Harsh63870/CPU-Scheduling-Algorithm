@@ -1,6 +1,6 @@
 # CPU Scheduling Algorithms using Shell Scripting
 
-A collection of CPU Scheduling Algorithm implementations developed using Bash Shell Scripting as part of Operating Systems laboratory coursework.
+A collection of Bash Shell Scripting programs, including CPU Scheduling Algorithm implementations and fundamental scripting concepts, designed to strengthen practical Linux and Operating Systems knowledge.
 
 ## Overview
 
